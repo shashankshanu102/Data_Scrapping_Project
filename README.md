@@ -6,4 +6,5 @@ Here mainly I will be scrapping
 1) Name of the Celebrity
 2) Image of the Celebrity
 3) Traits of the the Celebrity
+
 Then Saving the data into csv file
