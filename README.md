@@ -19,6 +19,6 @@ Scrapping Data from imdb.com and ranker.com. Here mainly I will be scrapping
 
 **Tool and Libraries used**
 - Python
-- Mozilla
+- Mozilla and Crome web browser
 - Selenium
 - BeautifulSoup
